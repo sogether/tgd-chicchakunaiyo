@@ -8,7 +8,7 @@ body {
 letter-spacing: -0.05em !important;
   background: transparent;
   font-family: 'Nanum Gothic', sans-serif;
-  background-image: url(./bg2.png)
+  background-image: url(https://sogether.github.io/tgd-chicchakunaiyo/images/bg2.png)
 }
 
 /* 전체 쉐도우 */
@@ -33,7 +33,7 @@ header .row>div:nth-child(1)>a {
   display: block;
   width: 180px;
   height: 50px;
-  background: url(./logo5.png) no-repeat;
+  background: url(https://sogether.github.io/tgd-chicchakunaiyo/images/logo5.png) no-repeat;
   background-size: auto 50px;
 }
 
